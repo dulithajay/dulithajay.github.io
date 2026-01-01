@@ -2,8 +2,8 @@ This is a collection of data analysis and machine learning projects I've complet
 * Email: dulitha.mj@gmail.com
 * Linkedin: [https://www.linkedin.com/in/dulithajayakodige/](https://www.linkedin.com/in/dulithajayakodige/)
 * Kaggle: [https://www.kaggle.com/dulithajayakodige](https://www.kaggle.com/dulithajayakodige)
-* Github: [https://github.com/dulithaJayakodige](https://github.com/dulithaJayakodige)
-* CV: [https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/CV.pdf](https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/CV.pdf)
+* Github: [https://github.com/dulithaJayakodige](https://github.com/dulithaJay)
+* CV: [https://github.com/dulithaJayakodige/dulithajayakodige.github.io/blob/main/CV.pdf](https://github.com/dulithaJay/dulithajay.github.io/blob/main/CV.pdf)
 
 ## Projects
 ### 1. Data Analytics and Visualization Job Simulation
